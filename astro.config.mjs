@@ -43,8 +43,8 @@ export default defineConfig({
       // If both an Astro and Starlight i18n configurations are provided, an error is thrown.
       locales: {
         root: {
-          label: 'English',
-          lang: 'en',
+          label: '简体中文',
+          lang: 'zh-CN',
         },
         de: { label: 'Deutsch', lang: 'de' },
         es: { label: 'Español', lang: 'es' },
