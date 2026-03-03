@@ -18,6 +18,7 @@ export const SEO = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
     inLanguage: 'en-US',
+    inLanguage: ["en", "zh"],
     '@id': SITE.url,
     url: SITE.url,
     name: SITE.title,
