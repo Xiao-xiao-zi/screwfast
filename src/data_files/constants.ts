@@ -8,7 +8,7 @@ export const SITE = {
   description_short:
     'ScrewFast offers top-tier hardware tools and expert construction services to meet all your project needs.',
   url: 'https://screwfast.uk',
-  author: 'Emil Gulamov',
+  author: 'Wxw wei',
 };
 
 export const SEO = {
@@ -17,7 +17,7 @@ export const SEO = {
   structuredData: {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
-    inLanguage: 'zh-CN',
+    inLanguage: 'en-US',
     '@id': SITE.url,
     url: SITE.url,
     name: SITE.title,
