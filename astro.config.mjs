@@ -15,15 +15,7 @@ export default defineConfig({
   },
   // i18n: {
   //   defaultLocale: "zh-CN",
-  //   locales: [
-      "zh-CN",  // 简体中文（中国大陆）
-      "zh-HK",  // 繁体中文（中国香港）
-      "zh-TW",  // 繁体中文（中国台湾）
-      "zh-MO",  // 繁体中文（中国澳门）
-      "en-US",  // 英语（美国）
-      "fr",     // 法语（法国，默认 fallback 到 en）
-      "ja-JP"   // 日语（日本，注意原代码末尾多了空格，已移除）
-    ],
+  //   locales: ["zh-CN","zh-HK","zh-TW","zh-MO","en-US","fr","ja-JP"],
   //   fallback: {
   //     fr: "en",
   //   },
